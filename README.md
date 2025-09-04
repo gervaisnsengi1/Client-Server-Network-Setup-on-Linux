@@ -4,7 +4,7 @@ Overview
 This project demonstrates a small Linux networking lab with a central server providing multiple core network services. 
 Two client machines connect to the server,one has a static IP and another one is using dhcp. The setup is designed for students, hobbyists, and sysadmins to practice Linux networking concepts.
 
-Features
+
 Central Linux Server
 ====================
 DHCP server for automatic IP address assignment
@@ -13,7 +13,7 @@ FTP server for file transfer
 Firewall rules for security and traffic control
 Optional basic services (e.g., web hosting, SSH, file sharing)
 
-Client Machines
+Network Diagram & Client Machines
 ===============
 One client with a static IP address
 One client using DHCP-assigned IP address
