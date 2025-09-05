@@ -22,14 +22,6 @@ Both clients can access all services provided by the server but with same restri
 
 <img width="600" height="500" alt="Linux Lab" src="https://github.com/user-attachments/assets/e90bdf96-814e-427f-8818-ce206c9e4a7b" />
 
-
-Goals
-=====
-Learn how to configure and manage DHCP, DNS, and FTP servers in Linux
-Practice setting up firewall rules with iptables or ufw
-Understand the difference between static IP and DHCP-assigned IP networking
-Test client-server communication in a controlled lab environment
-
 Requirements
 ============
 One Linux server (can be a VM,  physical machine)
@@ -54,5 +46,5 @@ Upload/download files with FTP
 Test firewall rules and basic connectivity
 
 Future Improvements
-Integrate monitoring with Prometheus or Grafana
+Integrate monitoring with  Grafana
 Bash script for automating some tasks.
